@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2020-12-21-how-we-built-the-github-globe%2F&psig=AOvVaw0Iwc9ndU7ZVnMEyRXyeX40&ust=1702499859449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLj2lqzgioMDFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
+<img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" align="center" style="width: 100%" />
 </div>  
   
 
