@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Developer | ⚛️ React.js | 🚀 Next.js | 🟢 Node.js | 🍃 MongoDB | 📱 Flutter<br>I'm a passionate full-stack developer with experience in building scalable web applications and user interfaces. My tech stack includes:<br><br>Frontend: ⚛️ React.js, 🚀 Next.js, 🎨 Tailwind CSS, 🔷 TypeScript, 📱 Flutter<br>Backend: 🟢 Node.js, 🛠️ Express.js, 🍃 MongoDB, 🎛️ Strapi<br>Tools: 🔄 Git, 🎨 Figma, 🔑 Clerk for authentication<br>Current Focus: in Flutter
-
+👨‍💻 Full-Stack Developer | ⚛️ React.js | 🚀 Next.js | 🟢 Node.js | 🍃 MongoDB | 📱 Flutter<br>I'm a passionate full-stack developer with experience in building scalable web applications and user interfaces.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wassimrahali/) 
 
